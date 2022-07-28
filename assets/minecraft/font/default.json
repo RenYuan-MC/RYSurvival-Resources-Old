@@ -1,0 +1,16 @@
+{
+  "providers": [
+    {
+      "file": "prefix:server.png",
+      "chars": [
+        "餑"
+      ],
+      "height": 9,
+      "ascent": 8,
+      "type": "bitmap"
+    }
+  ]
+}
+
+
+
