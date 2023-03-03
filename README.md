@@ -1,3 +1,5 @@
+# 已停用
+此资源包已停止更新,已做存档处理,请到 [此处](https://github.com/RenYuan-MC/RYSurvival-Resources) 查看新版本
 # 任渊生存服务端材质包
 任渊生存服务端使用的材质包  
 本材质包使用GPL v3协议 
